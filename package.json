@@ -1,0 +1,17 @@
+{
+  "name": "goudaner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "umi dev",
+    "build": "umi build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "umi": "^2.6.13",
+    "umi-plugin-react": "^1.7.4"
+  }
+}
